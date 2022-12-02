@@ -1,7 +1,9 @@
 # LPM
 
 [1] S. Dragule, T. Berger, C. Menghi, et P. Pelliccione, « A survey on the design space of end-user-oriented languages for specifying robotic missions », p. 36, [En ligne]. Disponible sur: https://link.springer.com/article/10.1007/s10270-020-00854-x
+
 [2] A. Ferrein, G. Steinbauer, et S. Vassos, « Action-Based Imperative Programming with YAGI », p. 8.
+
 [3] C. P. C. Chanel, A. Albore, J. T’Hooft, C. Lesire, et F. Teichteil-Königsbuch, « AMPLE: an anytime planning and execution framework for dynamic and uncertain problems in robotics », Autonomous Robots, p. 28, 2019, [En ligne]. Disponible sur: https://hal.archives-ouvertes.fr/hal-02901305/document
 [4] J. Rimani, C. Lesire, S. Lizy-Destrez, et N. Viola, « Application of MBSE to model Hierarchical AI Planning problems in HDDL », p. 9, [En ligne]. Disponible sur: https://icaps21.icaps-conference.org/workshops/KEPS/Papers/KEPS_2021_paper_6.pdf
 [5] O. Bartheye et É. Jacopin, « Connecting PDDL-based off-the-shelf planners to an arcade game », p. 5, [En ligne]. Disponible sur: http://alumni.media.mit.edu/~jorkin/bartheye_jacopin_ai_and_games_ecai_2008.pdf
